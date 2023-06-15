@@ -7,6 +7,8 @@ create a bash file for install a Docker And Docker Compose.
 
 create a docker-compose.yaml for create a container. Using WordPress and Mysql Image.
 
+"docker-compose up -d" - to run docker-compose.yaml file.
+
 Mention Port 80 is open for WordPress container in YAML file
 
 To create the /etc/hosts entry for example.com pointing to localhost, you can use the following command:
